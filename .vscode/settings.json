@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "hello-word-projeto-jv/src/secao05"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "sobre",
+            "request": "launch",
+            "mainClass": "sobre",
+            "projectName": "java_basico_10c1cbb1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "aulaNumero_1",
+            "request": "launch",
+            "mainClass": "secao01.exe.aulaNumero_1",
+            "projectName": "java_basico_10c1cbb1"
+        },
+        {
+            "type": "java",
+            "name": "aulaNumero_2",
+            "request": "launch",
+            "mainClass": "secao01.exe.aulaNumero_2",
+            "projectName": "java_basico_10c1cbb1"
+        },
+        {
+            "type": "java",
+            "name": "aulaNumero_3",
+            "request": "launch",
+            "mainClass": "secao01.exe.aulaNumero_3",
+            "projectName": "java_basico_10c1cbb1"
+        },
+        {
+            "type": "java",
+            "name": "aulaNumero_4",
+            "request": "launch",
+            "mainClass": "secao01.exe.aulaNumero_4",
+            "projectName": "java_basico_10c1cbb1"
+        },
+        {
+            "type": "java",
+            "name": "userTV",
+            "request": "launch",
+            "mainClass": "secao04_projtv.userTV",
+            "projectName": "java_basico_10c1cbb1"
+        },
+        {
+            "type": "java",
+            "name": "aboutMe",
+            "request": "launch",
+            "mainClass": "secao_05.aboutMe",
+            "projectName": "java_basico_10c1cbb1"
+        },
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "java_basico_10c1cbb1"
+        }
+    ]
+}
